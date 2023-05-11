@@ -55,7 +55,15 @@ if (SEKeyboardManager.CheckKeyDown(Keys.Space))
                 {
                     Jump();
                 }
-
+ 
+public void Jump() 
+        {
+            component.GetAudioSourceComponent().Play(@"FlappyBird\sfx_wing");
+            component.GetTransformComponent().SetRotateAngle(-0.3f);
+            timeFalling = DateTime.Now;
+            isFalling = false;
+            component.GetTransformComponent().SetSpeed(jumpSpeed);
+        }
 ```
 </details>
 <details>
