@@ -14,11 +14,10 @@ I’m going to analyze this game on basis of tasks given by teacher and i chose 
 Flappy bird is an arcade-style game which follow the pixelated bird called 'Faby' and is controlled by user.Goal is to fly between as many pipes as you can without getting hit
 
 ## Mechanism 
-Game mechanism is to create an addictive hit. Tapping the space button ‘lift’ to the main character, which is used strategically to navigate through a series of moving pipes and then a  point is scored for each pipe successfully passed. 
+Game mechanism is to create an addictive hit. Tapping the space button ‘lift’ to the main character, which is used strategically to navigate through a series of moving pipes and then one point is scored for each pipe successfully passed. 
 
 ## Instructions 
-The instruction for this  game  are v ery  simple. Press the spacebar to allow your bird to fly and to start the  game. Stay in the middle of screen until  the  first set of pipes appears. Measure your tap heights to go between the two pipes, Every pipe you will pass will give you a score of one point.
-
+The instruction for this  game  are v ery  simple. Press the spacebar to allow your bird to fly and to start the  game. Stay in the middle of screen until  the  first set of pipes appears. Measure your tap heights to go between the two pipes
 ## Organization of Files and Folders
 
 ![image](https://github.com/Mnbel555/flappyBird-Report-/assets/125232753/b1db1cdd-c22e-41c1-bef5-e565764bf5d2)
